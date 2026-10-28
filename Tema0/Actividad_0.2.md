@@ -1,3 +1,5 @@
+1. ¿Diferencias entre UDP y TCP?
+
 | Característica | TCP (Transmission Control Protocol) | UDP (User Datagram Protocol) |
 | :--- | :--- | :--- |
 | **Conexión** | Orientado a conexión (requiere saludo inicial). | No orientado a conexión (envía sin avisar). |
